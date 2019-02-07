@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LetterDictionary
+comment1.params=fileName
+comment1.target=LetterDictionary(java.lang.String)
+comment2.params=
+comment2.target=java.util.Set\ getAll()
+numComments=3

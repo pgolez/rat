@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Trie
+comment1.params=
+comment1.target=Trie()
+comment2.params=words
+comment2.target=void\ loadAll(java.lang.String[])
+comment3.params=words
+comment3.target=void\ loadAll(java.util.Collection)
+comment4.params=word
+comment4.target=void\ insert(java.lang.String)
+comment5.params=letters
+comment5.target=java.util.Set\ findAllWords(java.util.Set)
+comment6.params=nodes\ letters
+comment6.target=java.util.Set\ findAllWordsHelper(java.util.Set,\ java.util.Set)
+comment7.params=node
+comment7.target=java.lang.String\ getWord(Trie.TrieNode)
+comment8.params=word
+comment8.target=boolean\ contains(java.lang.String)
+numComments=9
